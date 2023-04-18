@@ -2,6 +2,8 @@
 For all my P2 & P3 students wanting to make an RPG for their side project.
 
 ## Features & Requirements
+* Uses Object-Oriented code to represent players and objects
+    - Added character base class with standard attributes
 * Decision-making mechanic
     - Users will be given a question with several options.
     - User can easily select an option with a single character (number or 
