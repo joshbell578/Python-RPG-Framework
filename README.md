@@ -19,3 +19,4 @@ For all my P2 & P3 students wanting to make an RPG for their side project.
 
 ## Change log
 * Added character base class with standard attributes (3/21)
+* Added new files (5/2)
