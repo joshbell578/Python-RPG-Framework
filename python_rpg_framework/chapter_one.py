@@ -13,6 +13,7 @@ backstory = (
     "\ngods was still very much alive.",
     "Intrigued by the discovery and the rumors surrounding the site, a group of " +
     "\nadventurers has now ventured into the lost city in search of treasure, " +
-    "\nknowledge, and adventure. But they soon discover that the ruins are " +
+    "\nknowledge, and adventure." + 
+    "But they soon discover that the ruins are " +
     "\nteeming with dangerous creatures, ancient traps, and dark secrets, and " +
-    "\nthat the curse of Maldonado is very real and very deadly.")
+    "\nthat the curse of Maldonado is very real and very deadly.\n")
